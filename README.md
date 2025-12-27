@@ -1,6 +1,8 @@
 # KimballFood
 ## a basic layout for handling food items in your Unreal Engine games
 
+https://github.com/user-attachments/assets/f1bbff67-a659-407d-914b-8b81596fffe1
+
 i created this for a game with a code name Kimball but it has ended up being abstract enough for me to share it!
 This plugin creates a foundation for the food and cooking mechanics in UE5. it heavily relies on the useage of gameplay tags and data assets for defining ingredients and meals
 
